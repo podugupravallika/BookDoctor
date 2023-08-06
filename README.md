@@ -1,2 +1,2 @@
-# BookDoctor
-This is a comprehensive web application that revolutionizes the way users find and book doctor appointments. With an intuitive interface and powerful search capabilities, our platform simplifies the process of connecting patients with specialized doctors.
+# BookaDoctor
+This is a web application designed to provide users with a convenient platform for searching and booking appointments with specialized doctors. The application aims to streamline the process of finding doctors based on their specialization and location, allowing users to easily schedule appointments from the comfort of their homes.
